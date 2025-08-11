@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Provided palette (light/default) -->
+    <color name="primaryColor">#4F8EF7</color>
+    <color name="secondaryColor">#23272F</color>
+    <color name="accentColor">#FFC107</color>
+
+    <!-- Material mappings -->
+    <color name="mdc_theme_primary">@color/primaryColor</color>
+    <color name="mdc_theme_secondary">@color/secondaryColor</color>
+    <color name="mdc_theme_secondaryContainer">@color/secondaryColor</color>
+
+    <!-- Bottom navigation color state references -->
+    <color name="bottom_nav_active">@color/primaryColor</color>
+    <color name="bottom_nav_inactive">#808080</color>
+</resources>

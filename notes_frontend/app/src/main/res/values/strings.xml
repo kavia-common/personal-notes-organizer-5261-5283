@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notes</string>
+
+    <!-- Navigation -->
+    <string name="nav_notes">Notes</string>
+    <string name="nav_folders">Folders</string>
+    <string name="nav_favorites">Favorites</string>
+
+    <!-- Actions -->
+    <string name="action_search">Search</string>
+    <string name="action_toggle_theme">Theme</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_pin">Pin</string>
+    <string name="action_unpin">Unpin</string>
+    <string name="action_favorite">Favorite</string>
+    <string name="action_unfavorite">Unfavorite</string>
+
+    <!-- Editor -->
+    <string name="title_edit_note">Edit Note</string>
+    <string name="hint_title">Title</string>
+    <string name="hint_content">Start typing your note…</string>
+    <string name="label_pinned">Pinned</string>
+    <string name="label_favorite">Favorite</string>
+    <string name="label_no_folder">No folder</string>
+
+    <!-- Folders -->
+    <string name="title_folders">Folders</string>
+    <string name="title_new_folder">New Folder</string>
+    <string name="hint_folder_name">Folder name</string>
+    <string name="title_folder_notes">Folder</string>
+
+    <!-- Empty and accessibility -->
+    <string name="empty_notes">No notes yet</string>
+    <string name="empty_favorites">No favorites yet</string>
+    <string name="empty_folders">No folders yet</string>
+    <string name="cd_add_note">Add note</string>
+    <string name="cd_add_folder">Add folder</string>
+    <string name="cd_delete_folder">Delete folder</string>
+    <string name="cd_pinned">Pinned</string>
+    <string name="cd_favorite">Favorite</string>
+    <string name="cd_note_menu">Note menu</string>
+    <string name="hint_search_notes">Search notes</string>
+    <string name="label_untitled">Untitled</string>
+
+    <!-- Messages -->
+    <string name="title_delete_note">Delete note</string>
+    <string name="msg_delete_note_confirm">This note will be deleted. This action cannot be undone.</string>
+    <string name="title_delete_folder">Delete folder</string>
+    <string name="msg_delete_folder_confirm">Delete this folder? Notes will remain but be uncategorized.</string>
+    <string name="msg_empty_note_warning">Enter a title or content</string>
+    <string name="msg_saved">Saved</string>
+    <string name="msg_deleted">Deleted</string>
+</resources>

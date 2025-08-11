@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#82AFFF</color>
+    <color name="secondaryColor">#121417</color>
+    <color name="accentColor">#FFC107</color>
+
+    <color name="mdc_theme_primary">@color/primaryColor</color>
+    <color name="mdc_theme_secondary">@color/secondaryColor</color>
+    <color name="mdc_theme_secondaryContainer">@color/secondaryColor</color>
+
+    <color name="bottom_nav_active">@color/primaryColor</color>
+    <color name="bottom_nav_inactive">#9AA0A6</color>
+</resources>
